@@ -1,0 +1,16 @@
+{
+  "name": "cwp-27",
+  "version": "1.0.0",
+  "description": "The 27th lab. work CWP",
+  "main": "index.js",
+  "repository": "https://github.com/NickTaylor98/cwp-27",
+  "author": "Nikita Laptev <nikita.laptev98@inbox.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "joi": "^13.1.2",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.3"
+  }
+}
